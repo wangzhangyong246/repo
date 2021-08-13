@@ -4,4 +4,4 @@ g3
 1407
 1428
 1443
-creating a new branch is quick.
+creating a new branch is quick & simple.
